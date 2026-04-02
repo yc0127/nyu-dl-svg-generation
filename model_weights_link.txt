@@ -1,0 +1,9 @@
+Trained LoRA adapter weights for Qwen2.5-1.5B SVG generation.
+
+Google Drive link: https://drive.google.com/drive/folders/1Cyita7JKiPY1xL-X6TG7WNB5j-8tVqrh?usp=sharing
+
+Folder contains:
+- adapter_model.safetensors
+- adapter_config.json
+- tokenizer files
+- training checkpoints
